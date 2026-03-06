@@ -30,6 +30,24 @@ Always open to exchanging ideas and growing alongside talented professionals.
 - Actively contributing to **UI/UX decisions**, proposing improvements to user experience and frontend architecture organization
 - Collaborating closely with product, design, and backend teams in an **agile, continuous delivery** environment
 
+### Frontend Developer — Bravosul
+**Mar 2021 — Oct 2022**
+
+- Contributed to multiple client projects, from legacy maintenance to new feature development
+- Built features with **React**, **TypeScript**, and **REST API integrations** tailored to each client’s needs
+- Refactored code and components for **performance**, **scalability**, and **reusability**
+- Provided ongoing technical support for different squads across diverse stacks and business domains
+- Participated in deployments, testing phases, and the resolution of critical production bugs to ensure application stability
+- Worked directly with internal and external teams to align scope and deadlines in an agile environment
+
+### Frontend Web Developer — Reweb (Acelere suas Vendas)
+**Mar 2019 — Nov 2020** · Porto Alegre, Brazil
+
+- Developed web interfaces for commercial solutions aimed at small and medium-sized businesses
+- Implemented responsive screens using **React**, **CSS3**, and **JavaScript**, with a strong focus on usability
+- Integrated with RESTful APIs and optimized page load performance
+- Supported the creation of custom landing pages and administrative dashboards
+
 ---
 
 ## Core skills
